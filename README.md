@@ -17,4 +17,4 @@ I have used python and pytorch to train this dataset to classify fruits from ima
 <br /> Convolutional Layer 3: 60
 <br /> Maxpooling Layers: 2
 <br /> Fully Connected Linear Layer: 500
-<br /> Output Lyaer: 103
+<br /> Output Lyaer: 103 Classes
