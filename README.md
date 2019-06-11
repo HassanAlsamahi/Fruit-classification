@@ -18,3 +18,6 @@ I have used python and pytorch to train this dataset to classify fruits from ima
 <br /> Maxpooling Layers: 2
 <br /> Fully Connected Linear Layer: 500
 <br /> Output Lyaer: 103 Classes
+
+# How to use
+This project was made by Google Collabaratory so to use it either to use google colab and change in the train and test path, or to run the .py file from a terminal and edit the train and test path if you to use it on your local computer, the .py file will train the model every time you run, still working on commands to load and run the model without training the it every time. 
